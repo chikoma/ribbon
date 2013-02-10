@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+/* slider.css */
+
+ul#slider{
+	text-align:center;
+}
+
+.bx-wrapper {position: relative;}
+.bx-start { display:none;}
+.bx-stop { display:none;}
