@@ -34,5 +34,25 @@ section h2{
 
 /* ナビゲーション */
 
-nav {
+
+/* フッター */
+
+footer{
+	color:#fcfcfc;
+	position:relative;
+}
+
+div#footerwrapper{
+	background:#240207;
+}
+
+footer#footerright{
+	position:absolute;
+	bottom:0;
+	right:0;
+}
+
+footer section{
+	text-align:right;
+	margin-top:10px;
 }
